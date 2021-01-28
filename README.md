@@ -1,5 +1,5 @@
-# www4minnanobousai_publish
-みんなの防災＋ソナエ 公式ウェブサイト
+# www4minnanobousai_publish Develop branch
+みんなの防災＋ソナエ 公式ウェブサイト Develop ブランチ
 
 ## 技術概要
 * Gatsby.JS
