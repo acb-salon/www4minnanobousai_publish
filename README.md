@@ -2,8 +2,10 @@
 みんなの防災＋ソナエ 公式ウェブサイト
 
 ## 技術概要
+* 本リポジトリのソースコードは [Developブランチ](https://github.com/acb-salon/www4minnanobousai_publish/tree/develop) に配置
 * Gatsby.JS
 * [gatsby-starter-overflow](https://github.com/anubhavsrivastava/gatsby-starter-overflow) をベースに改良 
+
 
 ## 開発
 * 青山学院大学 地球社会共生学部 古橋研究室
