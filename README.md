@@ -1,4 +1,4 @@
-![https://img.shields.io/badge/gatsbyjs-javascript-brightgreen](https://img.shields.io/badge/gatsbyjs-javascript-brightgreen)
+![https://img.shields.io/badge/javascript-gatsbyjs-blueviolet](https://img.shields.io/badge/javascript-gatsbyjs-blueviolet)
 
 # www4minnanobousai_publish
 みんなの防災＋ソナエ 公式ウェブサイト
