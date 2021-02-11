@@ -79,7 +79,7 @@ const IndexPage = () => (
 
 　<br />
 　<br />
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/0iFkMjTwJik?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/HgYkihzlBLY?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <div>
@@ -87,7 +87,7 @@ const IndexPage = () => (
   ※イベントの実施報告書をこちらからご覧いただけます。<br />
    <a href="https://www.gachapin-mukku.com/bousai/pdf/bousai_camp_report2015.pdf" target="_blank" class="button style4 scrolly">2015年度 イベントレポート<br />（PDF）</a>
    <a href="https://www.gachapin-mukku.com/bousai/pdf/bousai_event_report2016.pdf" target="_blank" class="button style4 scrolly">2016年度 イベントレポート<br />（PDF）</a>
-   <a href="https://www.gachapin-mukku.com/bousai/pdf/bousai_event_report2017.pdf" target="_blank" class="button style4 scrolly">2017年度 イベントレポート<br />（PDF）</a>
+   <a href="https://www.gachapin-mukku.com/bousai/pdf/bousai_event_report2017.pdf" target="_blank" class="button style4 scrolly">2017年度 イベントレポート<br />（PDF）</a><br />
    <a href="https://www.gachapin-mukku.com/bousai/pdf/sonaarea_report.pdf" target="_blank" class="button style4 scrolly">2017年度 そなエリア<br />イベントレポート（PDF）</a>
    <a href="https://www.gachapin-mukku.com/bousai/pdf/bousai_event_report2018.pdf" target="_blank" class="button style4 scrolly">2018年度 イベントレポート<br />（PDF）</a>
    <a href="https://www.gachapin-mukku.com/bousai/pdf/bousai_event_report2019.pdf" target="_blank" class="button style4 scrolly">2019年度 イベントレポート<br />（PDF）</a>
@@ -112,10 +112,13 @@ const IndexPage = () => (
         </p>
       </header>
 <br />　<br />
+<iframe width="300" height="200" src="https://www.youtube.com/embed/0iFkMjTwJik?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>　　
+
 <iframe width="300" height="200" src="https://www.youtube.com/embed/mhcLAaZpgbE?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>　　
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/uP1SQPs32Lw?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>　　
+allowfullscreen></iframe>
+<br />　<br />
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/s0O2uTo2E_4?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
